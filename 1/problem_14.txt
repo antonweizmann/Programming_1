@@ -1,0 +1,15 @@
+1. Why is it useful to have a boolean type in programming?
+    Boolean enable simple true or false checks, which are very useful for all kinds of logic statements. Its is also safer to use than simply using integers as there are only 2 possible states
+
+2. Explain what the order is used to execute logic operations with booleans. After that,
+    describe step by step how you would evaluate the expression:
+    A and B or not (C and D) and not E
+    Assuming A, B, C, D, and E as boolean variables.
+
+    Brackets have the highest priority, followed by not and then ands and lastly the ors.
+    We start with (C and D)
+    apply not to (C and D)
+    apply not to E
+    do A and B
+    compute [not (C and D)] and [not E]
+    compute [A and B] or {[not (C and D)] and [not E]}
