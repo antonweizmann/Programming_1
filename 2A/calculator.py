@@ -12,7 +12,7 @@ def mydivide(num1, num2):
     return result
 
 def calculator():
-    opperation = input("Choose the operation:\n- sum [1]\n- subtraction [2]\n- multiplication [3]\n- division [4]\n")
+    opperation = input("Choose the operation:\n- sum [b]\n- subtraction [2]\n- multiplication [3]\n- division [4]\n")
     num1 = int(input("What's the first number\n"))
     num2 = int(input("What's the second number\n"))
     match opperation:

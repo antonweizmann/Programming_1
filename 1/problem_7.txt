@@ -1,0 +1,7 @@
+1. A variable is a place to store information
+
+2. When you declare a variable, but don't declare the type. Then Pyhton will dynamically type the variable for you at runtime.
+
+3. You would need to declare the type of every variable before using it
+
+4. Typecasting enable us to turn one type into another. For Example if your are working with number and you want to print out your result you need to cast the number into a string.
