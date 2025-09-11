@@ -1,0 +1,12 @@
+var##: value
+var15: True
+var16: False
+var17: False
+var18: False
+var19: True
+var20: True
+var21: True
+var22: True
+var23: False
+var24: True
+var25: False

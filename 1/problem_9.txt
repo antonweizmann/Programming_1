@@ -1,0 +1,27 @@
+Expression 1
+F,F - T
+F,T - F
+T,F - F
+T,T - F
+
+Expression 2
+F,F - F
+F,T - T
+T,F - T
+T,T - F
+
+Expression 3
+F,F - T
+F,T - T
+T,F - T
+T,T - F
+
+Expression 4
+F,F,F - F
+F,F,T - F
+F,T,F - F
+F,T,T - T
+T,F,F - F
+T,F,T - T
+T,T,F - F
+T,T,T - T

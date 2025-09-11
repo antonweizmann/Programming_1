@@ -1,0 +1,15 @@
+var#: type, value
+var1: int, 8
+var2: int, 3
+var3: int, 10
+var4: boolean, False
+var5: boolean, True
+var6: boolean, False
+var7: float, 3.3333333333333335
+var8: boolean, False
+var9: boolean, True
+var10: string, "23"
+var11: boolean, true
+var12: float, 23
+var13: boolean, true
+var14: not defined
