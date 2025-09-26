@@ -1,0 +1,11 @@
+1. the continue statement skips the rest of the code inside the current iteration of a loop and moves to the next iteration
+    the break statement skips the rest of the code inside the loop and moves to the next code after the loop. The loop stops
+
+2. you use continue when you are done with the current iteration and want to start the next one.
+    lets say you want to print all odd number form 1 - 10. you would do a for loop in range(10) and simply if i is a even number you do continue and go to the next iteration
+
+    You can use break to for example stop the for loop in case there is an error
+
+3. A for loop is useful when a repetition of certain tasks is needed. The structure of the for loop is then simply depends on what tasks you need to repeat. Do you need to do something a certain number of times use range(), do you need to print all parts of a certain data structure loop over the structure with a for loop, etc.
+
+
