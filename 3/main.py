@@ -1,30 +1,45 @@
 import in_out_handler as ioh
 
-def book_handler_single(word_count):
-    print("Simply enter the filepath of the book you would like to measure")
-    book_file = ioh.open_book()
+def book_handler_single(logfile):
+    """Iterates over the book and counts its words
+    :param logfile: Opened logfile which errors and status messages will be written into
+    :return: the number of words counted in this book
+    :rtype: int
+    """
+    word_count = 0
+    book_file = ioh.open_book(logfile)
     for line in book_file:
         words = line.split()
         word_count += len(words)
     book_file.close()
+    return word_count
 
-def book_handler_series(word_count):
-    books = []
-    books = ioh.open_series()
+def book_handler_series(logfile):
+    """Iterates over the book and counts its words
+    :param logfile: Opened logfile which errors and status messages will be written into
+    :return: the number of words counted in this series
+    :rtype: int
+    """
+    word_count = 0
+    books = ioh.get_series(logfile)
     for book in books:
         for line in book:
             words = line.split()
             word_count += len(words)
     ioh.close_series(books)
+    return word_count
 
-print("Welcome to the Book Measurer! Do you want to measure only a single book [1] or an entire series [2]")
-selection = int(ioh.my_input(0))
+selection = int(ioh.my_input(0, "Welcome to the Book Measurer! Do you want to measure only a single book [1] or an entire series [2]"))
 total_word_count = 0
 average_word_count = 90000
+
+logfile = ioh.create_log_file()
+if logfile is None:
+    print("Failed to create logfile, proceeding without logging to file.")
 if selection == 1:
-    book_handler_single(total_word_count)
+    total_word_count = book_handler_single(logfile)
 elif selection == 2:
-    book_handler_series(total_word_count)
+    total_word_count = book_handler_series(logfile)
 else:
     print("The input mode does not exist.")
     exit(1)
