@@ -1,0 +1,13 @@
+1. A for loop needs to know the number of iterations before starting and cannot run indefinetly.
+A while loop however can have an undefined number of iterations at complie time.
+This is means if you dont know the number of iterations the loop will have to do a while loop has to be used.
+
+2. If you imagine namespaces as a set of layer, it first looks in its local namespace (the first layer)
+ Then it goes up one level and checks there. It repeats this until it reaches the global namespace.
+  After the global namespace it would then look at the builtin variables.
+ If for example you call a function from another function then there would be three layers.
+
+3. If you imagine namespaces as a set of layer, it first looks in its local namespace (the first layer)
+ Then it goes up one level and checks there. It repeats this until it reaches the global namespace.
+ After the global namespace it would then look at the builtin variables.
+ If for example you call a function from another function then there would be three layers.
