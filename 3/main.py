@@ -46,4 +46,4 @@ else:
 number_of_books = total_word_count / average_word_count
 print("The average word count of a book is \033[1m" + str(average_word_count) + "\033[0m words")
 print("In comparison the book or series you entered has \033[1m" + str(total_word_count) + "\033[0m words")
-print("This means that your book or series equals \033[1m" + str(number_of_books) + "\033[0m books")
+print("This means that your book or series equals \033[1m" + str(round(number_of_books, 2)) + "\033[0m books")
