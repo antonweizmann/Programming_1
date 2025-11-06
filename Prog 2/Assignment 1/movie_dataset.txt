@@ -1,0 +1,115 @@
+"Whiplash" 8.5 106
+"Bohemian Rhapsody" 7.9 134
+"CODA" 8.0 111
+"La La Land" 8.0 128
+"Black Snake Moan" 6.9 116
+"Footloose" 6.6 107
+"Baby Driver" 7.6 113
+"Marry Me" 6.0 112
+"Pitch Perfect" 7.1 112
+"Halftime" 6.5 95
+"Footloose" 5.8 113
+"Almost Famous" 7.9 122
+"Dirty Dancing" 7.0 100
+"Top Secret!" 7.2 90
+"Green Book" 8.2 130
+"O Brother, Where Art Thou?" 7.7 107
+"Metal Lords" 6.7 97
+"Soul" 8.0 100
+"The Pianist" 8.5 150
+"Coco" 8.4 105
+"Press Play" 5.6 85
+"A Star Is Born" 7.6 136
+"Respect" 6.5 145
+"Yesterday" 6.8 116
+"8 Mile" 7.1 110
+"Bill & Ted Face the Music" 5.9 91
+"The Dirt" 6.9 107
+"The Wedding Singer" 6.9 97
+"Amadeus" 8.4 160
+"Coyote Ugly" 5.7 0
+"Kinky Boots" 7.1 130
+"Bill & Ted's Excellent Adventure" 6.9 90
+"The Doors" 7.2 140
+"Straight Outta Compton" 7.8 147
+"Across the Universe" 7.3 133
+"The Blues Brothers" 7.9 133
+"Belle" 7.2 121
+"Studio 666" 5.7 106
+"Saturday Night Fever" 6.8 118
+"Burlesque" 6.4 119
+"Climax" 6.9 97
+"Magic Mike XXL" 5.6 115
+"All Too Well: The Short Film" 8.4 15
+"Some Like It Hot" 8.2 121
+"This Is Spinal Tap" 7.9 82
+"Kinky Boots" 7.1 10
+"Dick Tracy" 6.2 105
+"School of Rock" 7.2 109
+"Straight Outta Compton" 7.8 158
+"The Adventures of Priscilla, Queen of the Desert" 7.5 104
+"Walk Hard: The Dewey Cox Story" 6.8 96
+"Tarzan" 7.3 88
+"Sid and Nancy" 7.0 112
+"That Thing You Do!" 6.9 108
+"Flashdance" 6.2 95
+"Empire Records" 6.7 90
+"Green Room" 7.0 95
+"Walk the Line" 7.8 136
+"The Piano" 7.5 121
+"The Piano Teacher" 7.5 131
+"Beavis and Butt-Head Do America" 6.8 81
+"Cabaret" 7.7 124
+"La Bamba" 6.9 108
+"High School Musical" 5.5 98
+"Sound of Metal" 7.7 120
+"Wayne's World" 7.0 94
+"Selena" 6.8 127
+"Pitch Perfect 2" 6.4 115
+"Step Up" 6.5 104
+"The Bodyguard" 6.3 129
+"Strictly Ballroom" 7.2 94
+"High Fidelity" 7.4 113
+"Grease 2" 4.4 115
+"Yoga Hosers" 4.2 88
+"Untitled Kanye West Documentary" 8.7 93
+"Airheads" 6.1 92
+"Love & Mercy" 7.4 121
+"Vox Lux" 5.8 114
+"Begin Again" 7.4 104
+"Pitch Perfect 3" 5.8 93
+"Be Cool" 5.6 118
+"Alvin and the Chipmunks" 5.2 92
+"Rio" 6.9 96
+"Velvet Goldmine" 6.9 118
+"Step Up 2: The Streets" 6.2 98
+"Freaky Friday" 6.3 97
+"9 Songs" 4.7 71
+"Stormy Weather" 7.3 78
+"Lili Marleen" 7.1 120
+"Inside Llewyn Davis" 7.4 104
+"Jailhouse Rock" 6.5 96
+"Sing Street" 7.9 106
+"Sister Act" 6.5 100
+"Meet the Robinsons" 6.8 95
+"All That Jazz" 7.8 123
+"Ray" 7.7 152
+"Billy Elliot" 7.7 110
+"Bill & Ted's Bogus Journey" 6.3 93
+"Streets of Fire" 6.7 93
+"The Last Dragon" 6.8 109
+"Youth" 7.3 124
+"Grizzly II: Revenge" 2.9 74
+"Camp Rock" 5.1 94
+"Moxie" 6.7 111
+"Crazy Heart" 7.2 112
+"Happy Feet" 6.4 108
+"Inside" 8.6 87
+"The Commitments" 7.6 118
+"Tenacious D in the Pick of Destiny" 6.8 94
+"Clouds" 7.5 121
+"Get Him to the Greek" 6.3 109
+"Hairspray" 7.0 92
+"The Boat That Rocked" 7.3 117
+"A Bigger Splash" 6.4 125
+"Hannah Montana: The Movie" 4.5 102
