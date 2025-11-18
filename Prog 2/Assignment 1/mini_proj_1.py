@@ -82,7 +82,6 @@ def change_entry(contacts: dict, name: str, new_phone: str):
     -------
     contacts : TYPE
         DESCRIPTION.
-
     """
     if len(new_phone) != 9:
         print("Error: Phone number not in correct format", file=sys.stderr)
