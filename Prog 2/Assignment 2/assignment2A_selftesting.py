@@ -95,7 +95,7 @@ def test_is_square_1D():
     
 def test_is_square_2D():
     try:
-        a = np.zeros((2,2))
+        a = np.zeros((2,2, 3))
         b = np.zeros((10,2))
         if asgmt.is_square(a) == True and asgmt.is_square(b)==False:
             print("Passed test_is_square_2D")

@@ -6,8 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="6467e4dd-a3e6-466d-8a5f-6e325aa4679b" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 1/mini_proj_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 1/mini_proj_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 1/assignment1B_selftesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 1/assignment1B_selftesting.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 2/assignment2A_selftesting.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 2/assignment2A_selftesting.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 2/mini_proj_3.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 2/mini_proj_3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 2/recursive_problems_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 2/recursive_problems_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Prog 2/Assignment 2/recursive_problems_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Prog 2/Assignment 2/recursive_problems_2.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,12 +41,16 @@
     "Python.assignment1A_selftesting.executor": "Run",
     "Python.assignment1B_selftesting.executor": "Run",
     "Python.assignment2A_selftesting.executor": "Run",
+    "Python.assignment2B_selftesting.executor": "Run",
+    "Python.assignment2C_selftesting.executor": "Run",
     "Python.book_measurer.executor": "Debug",
     "Python.in_out_handler.executor": "Debug",
     "Python.main.executor": "Debug",
     "Python.mini_proj_1.executor": "Run",
     "Python.mini_proj_2.executor": "Debug",
     "Python.mini_proj_3.executor": "Debug",
+    "Python.recursive_problems_1.executor": "Run",
+    "Python.recursive_problems_2.executor": "Run",
     "Python.submission_assignment2B.executor": "Run",
     "Python.test.executor": "Debug",
     "Python.todo_list.executor": "Debug",
@@ -86,36 +93,6 @@
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/1" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="book_measurer" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Assignment 2" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3/book_measurer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Python.book_measurer" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -160,7 +137,18 @@
       <workItem from="1762343488181" duration="46000" />
       <workItem from="1762344873353" duration="5984000" />
       <workItem from="1762434380655" duration="12557000" />
-      <workItem from="1763388410957" duration="11659000" />
+      <workItem from="1763388410957" duration="16284000" />
+      <workItem from="1763557928127" duration="202000" />
+      <workItem from="1763652140007" duration="543000" />
+      <workItem from="1764092668333" duration="8935000" />
+      <workItem from="1764324773008" duration="674000" />
+      <workItem from="1764457484039" duration="239000" />
+      <workItem from="1764778005769" duration="5000" />
+      <workItem from="1764778109605" duration="5071000" />
+      <workItem from="1764790740628" duration="83000" />
+      <workItem from="1765204933031" duration="3077000" />
+      <workItem from="1765217810401" duration="13000" />
+      <workItem from="1765379734523" duration="4615000" />
     </task>
     <servers />
   </component>
@@ -213,24 +201,33 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
           <url>file://$PROJECT_DIR$/Prog 2/Assignment 2/mini_proj_3.py</url>
-          <line>116</line>
+          <line>270</line>
           <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Prog 2/Assignment 2/recursive_problems_2.py</url>
+          <line>40</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Assignments$recursive_problems_1.coverage" NAME="recursive_problems_1 Coverage Results" MODIFIED="1765379931067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
     <SUITE FILE_PATH="coverage/Assignments$mini_proj_3.coverage" NAME="mini_proj_3 Coverage Results" MODIFIED="1763488277455" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
+    <SUITE FILE_PATH="coverage/Assignments$assignment2B_selftesting.coverage" NAME="assignment2B_selftesting Coverage Results" MODIFIED="1764094900579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
     <SUITE FILE_PATH="coverage/Assignments$mini_proj_1.coverage" NAME="mini_proj_1 Coverage Results" MODIFIED="1762441577849" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 1" />
+    <SUITE FILE_PATH="coverage/Assignments$assignment2C_selftesting.coverage" NAME="assignment2C_selftesting Coverage Results" MODIFIED="1765383954797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
+    <SUITE FILE_PATH="coverage/Assignments$recursive_problems_2.coverage" NAME="recursive_problems_2 Coverage Results" MODIFIED="1765382618131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
     <SUITE FILE_PATH="coverage/Assignments$assignment1A_selftesting.coverage" NAME="assignment1A_selftesting Coverage Results" MODIFIED="1762442091779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 1" />
     <SUITE FILE_PATH="coverage/Assignment_2$main.coverage" NAME="main Coverage Results" MODIFIED="1760520480429" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/Assignment_2$book_measurer.coverage" NAME="book_measurer Coverage Results" MODIFIED="1760706196421" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
     <SUITE FILE_PATH="coverage/Assignment_2$test.coverage" NAME="test Coverage Results" MODIFIED="1758886685272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2B" />
-    <SUITE FILE_PATH="coverage/Assignments$assignment1B_selftesting.coverage" NAME="assignment1B_selftesting Coverage Results" MODIFIED="1763112215154" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 1" />
+    <SUITE FILE_PATH="coverage/Assignments$assignment1B_selftesting.coverage" NAME="assignment1B_selftesting Coverage Results" MODIFIED="1763490982258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 1" />
     <SUITE FILE_PATH="coverage/Assignment_2$submission_assignment2B.coverage" NAME="submission_assignment2B Coverage Results" MODIFIED="1758887106107" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2B" />
     <SUITE FILE_PATH="coverage/Assignments$mini_proj_2.coverage" NAME="mini_proj_2 Coverage Results" MODIFIED="1763112113126" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 1" />
     <SUITE FILE_PATH="coverage/Assignment_2$todo_list.coverage" NAME="todo_list Coverage Results" MODIFIED="1758892645840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2B" />
     <SUITE FILE_PATH="coverage/Assignment_2$in_out_handler.coverage" NAME="in_out_handler Coverage Results" MODIFIED="1760562360709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3" />
-    <SUITE FILE_PATH="coverage/Assignments$assignment2A_selftesting.coverage" NAME="assignment2A_selftesting Coverage Results" MODIFIED="1763489693840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
+    <SUITE FILE_PATH="coverage/Assignments$assignment2A_selftesting.coverage" NAME="assignment2A_selftesting Coverage Results" MODIFIED="1765206492873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prog 2/Assignment 2" />
   </component>
 </project>
